@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/iamvinayvk/mqtt-react/static/css/main.d4cbb027.chunk.css",
+    "main.js": "/iamvinayvk/mqtt-react/static/js/main.61ea2f8e.chunk.js",
+    "main.js.map": "/iamvinayvk/mqtt-react/static/js/main.61ea2f8e.chunk.js.map",
+    "runtime-main.js": "/iamvinayvk/mqtt-react/static/js/runtime-main.1e687eee.js",
+    "runtime-main.js.map": "/iamvinayvk/mqtt-react/static/js/runtime-main.1e687eee.js.map",
+    "static/js/2.c3c27570.chunk.js": "/iamvinayvk/mqtt-react/static/js/2.c3c27570.chunk.js",
+    "static/js/2.c3c27570.chunk.js.map": "/iamvinayvk/mqtt-react/static/js/2.c3c27570.chunk.js.map",
+    "index.html": "/iamvinayvk/mqtt-react/index.html",
+    "static/css/main.d4cbb027.chunk.css.map": "/iamvinayvk/mqtt-react/static/css/main.d4cbb027.chunk.css.map",
+    "static/js/2.c3c27570.chunk.js.LICENSE.txt": "/iamvinayvk/mqtt-react/static/js/2.c3c27570.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/iamvinayvk/mqtt-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e687eee.js",
+    "static/js/2.c3c27570.chunk.js",
+    "static/css/main.d4cbb027.chunk.css",
+    "static/js/main.61ea2f8e.chunk.js"
+  ]
+}
