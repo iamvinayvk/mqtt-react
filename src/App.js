@@ -36,7 +36,7 @@ function App() {
     setUpdateHumidity(true);
   }
   useEffect(() => {
-    const client = mqtt.connect('https://test.mosquitto.org:8081');
+    const client = mqtt.connect('wss://test.mosquitto.org:8081');
 
             client.on('connect', () => {
               setConnectionStatus(true)
