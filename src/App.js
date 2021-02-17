@@ -6,6 +6,7 @@ import React , {useState,useEffect} from 'react';
 import mqtt from 'mqtt';
 import AddButton from './Components/AddButton';
 import Navbar from './Components/Navbar';
+import Foooter from './Components/Foooter';
 
 function App() {
   const [connectionStatus, setConnectionStatus] = React.useState(false);
@@ -116,6 +117,7 @@ function App() {
         <div className="panel">
           <div className="publisher">
             <h1 className="navbar">Publisher</h1>
+            <span>This is for demo purpose we can use sensors as publisher and can extend this project</span>
         <CardP ChangeTemp={handleChangeTemp} Temp={currentTemp} clickTemp={handleClickTemp}
           ChangeHumidity={handleChangeHumidity} Humidity={currentHumidity} clickHumidity={handleClickHumidity}
         />
@@ -127,7 +129,7 @@ function App() {
         </div>
         </div>
      
-   
+   <Foooter/>
   
     </div>
   );
